@@ -25,7 +25,7 @@ export const ContainerLogin = styled.div`
     max-width: 646px;
     height: 100vh;
     display: flex;
-    flex-direction: column;
+
     align-items: center;
     justify-content: center;
     padding: 22px;
@@ -36,4 +36,5 @@ export const LimitedContainer = styled.div`
     max-width: 498px;
     display: flex;
     justify-content: center;
+    flex-direction: column;
 `;
